@@ -7,4 +7,4 @@ to use the program, just put the folder to track path in the appropriate variabl
 
 #for windows user
 
-add another backslash (\) to the path, otherwise python freaks out
+add another backslash (\\) to the path, otherwise python freaks out
